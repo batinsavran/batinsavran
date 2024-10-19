@@ -18,7 +18,7 @@ I'm a passionate Mobile Developer with experience in both Android and iOS develo
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
-### 🔧 Tools & Technologies
+## 🔧 Tools & Technologies
 ![Xcode](https://img.shields.io/badge/Xcode-%231F69A3.svg?style=flat&logo=Xcode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-%3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
@@ -43,6 +43,7 @@ I'm a passionate Mobile Developer with experience in both Android and iOS develo
 - [Google Maps API Entegrasyonu](https://medium.com/@batinsavran/google-maps-api-entegrasyonu-c95815159509)
 - [Android Geliştiricisinden iOS'a: SwiftUI Deneyimim ve TicTacToe Projem](https://medium.com/@batinsavran/android-geliştiricisinden-iosa-swiftui-deneyimim-ve-tictactoe-projem-fc5bb3455d43)
 - [Swift ile MVVM Mimarisi: Görev Yönetim Uygulaması Üzerine Deneyimlerim](https://medium.com/@batinsavran/swift-ile-mvvm-mimarisi-görev-yönetim-uygulaması-üzerine-deneyimlerim-4fc2ae697ef2)
+- [MVVM’nin Alternatifleri ve Karşılaştırmalar: Android’den iOS’a Geçişte İlk İzlenimlerim](https://medium.com/@batinsavran/mvvmnin-alternatifleri-ve-karşılaştırmalar-android-den-ios-a-geçişte-i̇lk-i̇zlenimlerim-34b5a246919f)
 
 # 📊 GitHub Stats:
 ![Batın's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=batinsavran&theme=dark&hide_border=false)<br/>
