@@ -34,7 +34,6 @@ I'm a passionate Mobile Developer with experience in both Android and iOS develo
 
 # 🚀 Featured Projects
 [![GuvenliPati](https://github-readme-stats.vercel.app/api/pin/?username=batinsavran&repo=GuvenliPati&theme=dark)](https://github.com/batinsavran/GuvenliPati)
-[![GoogleMapAPI](https://github-readme-stats.vercel.app/api/pin/?username=batinsavran&repo=GoogleMapAPI&theme=dark)](https://github.com/batinsavran/GoogleMapAPI)
 [![TicTacToe-SwiftUI](https://github-readme-stats.vercel.app/api/pin/?username=batinsavran&repo=TicTacToe-SwiftUI&theme=dark)](https://github.com/batinsavran/TicTacToe-SwiftUI)
 [![Task-Management-App](https://github-readme-stats.vercel.app/api/pin/?username=batinsavran&repo=Task-Management-App&theme=dark)](https://github.com/batinsavran/Task-Management-App)
 
