@@ -30,7 +30,7 @@ I'm a passionate Mobile Developer with experience in both Android and iOS develo
 ![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=flat&logo=slack&logoColor=white)
 
 # 🔨 What I'm Currently Working On
-[![Task-Management-App](https://github-readme-stats.vercel.app/api/pin/?username=batinsavran&repo=Task-Management-App&theme=dark)](https://github.com/batinsavran/Task-Management-App)
+[![AR Object Viewer](https://github-readme-stats.vercel.app/api/pin/?username=batinsavran&repo=ARObjectViewer&theme=dark)](https://github.com/batinsavran/ARObjectViewer)
 
 # 🚀 Featured Projects
 [![GuvenliPati](https://github-readme-stats.vercel.app/api/pin/?username=batinsavran&repo=GuvenliPati&theme=dark)](https://github.com/batinsavran/GuvenliPati)
@@ -44,6 +44,7 @@ I'm a passionate Mobile Developer with experience in both Android and iOS develo
 - [Android Geliştiricisinden iOS'a: SwiftUI Deneyimim ve TicTacToe Projem](https://medium.com/@batinsavran/android-geliştiricisinden-iosa-swiftui-deneyimim-ve-tictactoe-projem-fc5bb3455d43)
 - [Swift ile MVVM Mimarisi: Görev Yönetim Uygulaması Üzerine Deneyimlerim](https://medium.com/@batinsavran/swift-ile-mvvm-mimarisi-görev-yönetim-uygulaması-üzerine-deneyimlerim-4fc2ae697ef2)
 - [MVVM’nin Alternatifleri ve Karşılaştırmalar: Android’den iOS’a Geçişte İlk İzlenimlerim](https://medium.com/@batinsavran/mvvmnin-alternatifleri-ve-karşılaştırmalar-android-den-ios-a-geçişte-i̇lk-i̇zlenimlerim-34b5a246919f)
+- [Artırılmış Gerçeklik Dünyasına Giriş ve ARObjectViewer Projesi](https://medium.com/@batinsavran/artırılmış-gerçeklik-dünyasına-giriş-ve-arobjectviewer-projesi-84ae4c1c0c0c)
 
 # 📊 GitHub Stats:
 ![Batın's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=batinsavran&theme=dark&hide_border=false)<br/>
