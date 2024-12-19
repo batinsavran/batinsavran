@@ -30,13 +30,15 @@ I'm a passionate Mobile Developer with experience in both Android and iOS develo
 ![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=flat&logo=slack&logoColor=white)
 
 # 🔨 What I'm Currently Working On
-[![AR Object Viewer](https://github-readme-stats.vercel.app/api/pin/?username=batinsavran&repo=ARObjectViewer&theme=dark)](https://github.com/batinsavran/ARObjectViewer)
+- Collaborating on a private project called **Rezinn**, focusing on enhancing user reservation experiences through seamless UI/UX integration and robust backend features.  
+  *(Due to its confidentiality, specific details about the project cannot be disclosed.)*
 
 # 🚀 Featured Projects
 [![GuvenliPati](https://github-readme-stats.vercel.app/api/pin/?username=batinsavran&repo=GuvenliPati&theme=dark)](https://github.com/batinsavran/GuvenliPati)
 [![GoogleMapAPI](https://github-readme-stats.vercel.app/api/pin/?username=batinsavran&repo=GoogleMapAPI&theme=dark)](https://github.com/batinsavran/GoogleMapAPI)
 [![TicTacToe-SwiftUI](https://github-readme-stats.vercel.app/api/pin/?username=batinsavran&repo=TicTacToe-SwiftUI&theme=dark)](https://github.com/batinsavran/TicTacToe-SwiftUI)
 [![Task-Management-App](https://github-readme-stats.vercel.app/api/pin/?username=batinsavran&repo=Task-Management-App&theme=dark)](https://github.com/batinsavran/Task-Management-App)
+[![AR Object Viewer](https://github-readme-stats.vercel.app/api/pin/?username=batinsavran&repo=ARObjectViewer&theme=dark)](https://github.com/batinsavran/ARObjectViewer)
 
 # ✍️ Latest Blog Posts
 - [Android Kotlin Roadmap](https://medium.com/@batinsavran/android-kotlin-roadmap-b5807434800c)
@@ -45,6 +47,7 @@ I'm a passionate Mobile Developer with experience in both Android and iOS develo
 - [Swift ile MVVM Mimarisi: Görev Yönetim Uygulaması Üzerine Deneyimlerim](https://medium.com/@batinsavran/swift-ile-mvvm-mimarisi-görev-yönetim-uygulaması-üzerine-deneyimlerim-4fc2ae697ef2)
 - [MVVM’nin Alternatifleri ve Karşılaştırmalar: Android’den iOS’a Geçişte İlk İzlenimlerim](https://medium.com/@batinsavran/mvvmnin-alternatifleri-ve-karşılaştırmalar-android-den-ios-a-geçişte-i̇lk-i̇zlenimlerim-34b5a246919f)
 - [Artırılmış Gerçeklik Dünyasına Giriş ve ARObjectViewer Projesi](https://medium.com/@batinsavran/artırılmış-gerçeklik-dünyasına-giriş-ve-arobjectviewer-projesi-84ae4c1c0c0c)
+- [Android’de SendBird ile Mesajlaşma Akışı Nasıl Oluşturulur?](https://medium.com/@batinsavran/androidde-sendbird-ile-mesajlaşma-akışı-nasıl-oluşturulur-303ec0a1ea1d)
 
 # 📊 GitHub Stats:
 ![Batın's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=batinsavran&theme=dark&hide_border=false)<br/>
