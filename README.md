@@ -30,8 +30,7 @@ I'm a passionate Mobile Developer with experience in both Android and iOS develo
 ![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=flat&logo=slack&logoColor=white)
 
 # 🔨 What I'm Currently Working On
-- Collaborating on a private project called **Rezinn**, focusing on enhancing user reservation experiences through seamless UI/UX integration and robust backend features.  
-  *(Due to its confidentiality, specific details about the project cannot be disclosed.)*
+- Not currently working on any project, focusing on improving my skills in mobile development.
 
 # 🚀 Featured Projects
 [![GuvenliPati](https://github-readme-stats.vercel.app/api/pin/?username=batinsavran&repo=GuvenliPati&theme=dark)](https://github.com/batinsavran/GuvenliPati)
